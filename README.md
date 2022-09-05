@@ -12,7 +12,7 @@ https://www.aerocivil.gov.co/atencion/estadisticas-de-las-actividades-aeronautic
 
 
 Jupyter notebooks - Ok
-tableu en linea
+tableu en linea - 
 streamlit
 python y django
 React
