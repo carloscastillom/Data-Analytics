@@ -3,6 +3,7 @@
 
 lead time suppliers and items
 Demand Items
+inventory
 
 
 - Read pdf a convert them to CSV
