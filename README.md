@@ -7,7 +7,7 @@ inventory.
 
 
 
-- Read pdf a convert them to CSV
+- Read pdf a convert them to CSV. data wrangling is very important
 
 - fumigación aerea
 https://www.aerocivil.gov.co/atencion/estadisticas-de-las-actividades-aeronauticas/bases-de-datos
