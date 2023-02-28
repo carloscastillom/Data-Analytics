@@ -13,8 +13,7 @@ inventory.
 https://www.aerocivil.gov.co/atencion/estadisticas-de-las-actividades-aeronauticas/bases-de-datos
 
 crear un dashboard de eso en concreto? 
-flighst in Germany Europe? oficial--
-
+flighst in Germany Europe? oficial 
 
 - what we eat?
 Co2 consumption of the food we eat.
